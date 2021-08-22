@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">AndroidPubSubWebSocket</string>
-    <string name="title_activity_movement">movement</string>
-    <string name="boost">boost</string>
-    <string name="todo">TODO</string>
-    <string name="gyro">gyro</string>
-</resources>
